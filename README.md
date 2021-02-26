@@ -1,4 +1,4 @@
-<h1 align="center">Olá, <dev/> Eu sou Gabriel Essênio </h1>
+<h1 align="center">Olá, <dev/> Meu nome é Gabriel Essênio </h1>
 <h3 align="center">Sou estudante de Front-end and Back-and!</h3>
 
 <p align="center"><img align="center" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></p>
@@ -6,13 +6,15 @@
 
 - 👋 Sou formado em **Analise e Desenvolvimento de Sistemas pelo UniCEUB**
 
-- 🌱 Sou estudante da **Trybe**
+- 🌱 Sou estudante da **Trybe** 
 
 - 🔭 No momento estou estudando **HTML/CSS e JavaScript**
 
-- 📫 Entre em contato **gabriel.essenio@gmail.com**
-
 - 🇺🇸 Nível de Ingês: **Upper Intermediate**
+
+- 💼 Procurando por uma vaga de emprego como **Dev Junior**
+
+- 📫 Entre em contato **gabriel.essenio@gmail.com**
 
 - ⚡ Curiosidade (Talvez não): Eu gosto de **Acampar**
 
