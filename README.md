@@ -14,7 +14,7 @@
 
 - 🇺🇸 Nível de Ingês: **Upper Intermediate**
 
-- ⚡ Curiosidade (Talvez não): Eu gosto de**Acampar**
+- ⚡ Curiosidade (Talvez não): Eu gosto de **Acampar**
 
 
 
