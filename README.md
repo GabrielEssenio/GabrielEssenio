@@ -16,7 +16,7 @@
 
 - 📫 Entre em contato **gabriel.essenio@gmail.com**
 
-- ⚡ Curiosidade (Talvez não): Eu gosto de **Acampar**
+- ⚡ Curiosidade (Talvez não): Estou sempre disposto pra uma **Aventura**
 
 
 
