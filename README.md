@@ -81,7 +81,10 @@
   <img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Gmail"  width="50" />
 </a>
  </p>
-    </p> 
+  </p>
+  
+  <br>
+  <br>
   
   ![GabrielEssenio's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielessenio&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielessenio&layout=compact&show_icons=true&theme=dracula)
