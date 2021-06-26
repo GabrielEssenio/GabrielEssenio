@@ -59,7 +59,36 @@
   </a>
 </p>
   
+  
+  
+
+  
+  
   <h3 align="center">Entre em Contato</h3>
+    <a href="https://github.com/gabrielessenio" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="50px">
+</a> 
+<a href="https://www.instagram.com/gabrielessenio/" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="50px">
+</a> 
+<a href="https://www.linkedin.com/in/gabrielessenio/" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" width="50x">
+</a>
+  
+  
+<!--   
+  <p align="center">
+<a href="https://www.linkedin.com/in/andrade-jefferson/" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="48px" height="48px">
+</a>
+<a href="https://t.me/andrade_jefferson" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" width="48px" height="48px">
+</a>
+  </p>
+  
+  
+  
+  
   <a href="https://github.com/gabrielessenio" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="50px">
 </a> 
@@ -69,6 +98,8 @@
 <a href="https://www.linkedin.com/in/gabrielessenio/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="50px">
 </a>
+   -->
+  
   <a href="https://t.me/gabrielessenio/" target="_blank">
   <img src="https://w7.pngwing.com/pngs/607/1001/png-transparent-white-arrow-illustration-telegram-logo-computer-icons-social-miscellaneous-blue-angle-thumbnail.png" width="50px">
 </a>
