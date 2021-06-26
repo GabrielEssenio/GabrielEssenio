@@ -24,7 +24,7 @@
 
   - 💼 Procurando por uma vaga de emprego como **Dev Junior**
   
-  - 💡 Estou sempre buscando novos desafios
+  - :telescope: Estou sempre buscando novos desafios
 
   - 🌱 Sou **Vegetariano** 
   
