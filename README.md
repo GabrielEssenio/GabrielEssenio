@@ -33,7 +33,7 @@
    <code><img heigth="50" width="50" src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png"></code> 
   </a>
    <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">
-   <code><img heigth="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></code> 
+   <code><img heigth="50" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"></code> 
   </a>
   <a href="https://redux.js.org/" target="_blank">
    <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code> 
