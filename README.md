@@ -48,7 +48,7 @@
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code> 
   </a>  
   <a href="https://tailwindcss.com/docs" target="_blank">
-   <code><img height="50" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"></code> 
+   <code><img width="50" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"></code> 
   </a>
   <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/" target="_blank">
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code> 
