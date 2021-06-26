@@ -24,8 +24,10 @@
     
 - :round_pushpin: Moro em Belo Horizonte
   </h3>
-
-<p align="center">Linguagens e Ferramentas</p>
+  
+<br>
+  
+<h2 align="center"><strong>Linguagens e Ferramentas</strong></h2>
 
 <p align="center">
   <a href="https://git-scm.com/doc" target="_blank">
