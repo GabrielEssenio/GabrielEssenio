@@ -1,8 +1,10 @@
-<h1 align="center">Olá, <dev/> Meu nome é Gabriel Essênio </h1>
+<h1 align="center">
+  <strong><img src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" alt="trybe" width="20"/>Olá, Meu nome é Gabriel Essênio</strong>
+</h1>
 
 <h3 align="center">
   Sou estudante de Desenvolvimento Web na Trybe!
-<img align="left" src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" alt="trybe" width="20"/>
+
 </h3>
 
 <p align="center"><img align="center" width="400" src="https://steemitimages.com/p/46aP2QLrGDNGiJdfY4WTT8NPvcfYiDkBhmpjcaCgXr4MCNcJE3u9JDasgkDDdeU3Lcu4Qj2eN8mdSBSBF8tfXpZZuP7K?format=match&mode=fit"></p>
