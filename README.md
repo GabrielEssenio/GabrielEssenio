@@ -5,7 +5,7 @@
 
 <h2 align="center">Um pouco sobre mim<h2>
 
-  <h4>  
+  <h3>  
 - 👋 Sou formado em **Analise e Desenvolvimento de Sistemas pela UniCeub**
 
 - :bulb: Sou estudante da **Trybe** 
@@ -21,7 +21,7 @@
 -  :recycle: Sou **Vegetariano** 
 
 - :zap: Curiosidade 
-  </h4>
+  </h3>
 
 ## <p align="center">Linguagens e Ferramentas</p>
 
