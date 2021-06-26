@@ -5,7 +5,7 @@
 
 <h2 align="center">Um pouco sobre mim<h2>
   
-- 👋 Sou formado em **Analise e Desenvolvimento de Sistemas pela UniCEUB**
+- 👋 Sou formado em **Analise e Desenvolvimento de Sistemas pela UniCeub**
 
 - :bulb: Sou estudante da **Trybe** 
 
@@ -14,6 +14,8 @@
 - 🇺🇸 Nível de Ingês: **Upper Intermediate**
 
 - 💼 Procurando por uma vaga de emprego como **Dev Junior**
+  
+- Estou sempre buscando novos desafios
 
 -  :recycle: Sou **Vegetariano** 
 
@@ -70,7 +72,4 @@
   <a href="https://t.me/gabrielessenio/" target="_blank">
   <img src="https://w7.pngwing.com/pngs/607/1001/png-transparent-white-arrow-illustration-telegram-logo-computer-icons-social-miscellaneous-blue-angle-thumbnail.png" width="50px">
 </a>
-  https://w7.pngwing.com/pngs/607/1001/png-transparent-white-arrow-illustration-telegram-logo-computer-icons-social-miscellaneous-blue-angle-thumbnail.png
-  
-  
-  https://t.me/gabrielessenio
+
