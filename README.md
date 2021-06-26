@@ -1,7 +1,7 @@
 <h1 align="center">Olá, <dev/> Meu nome é Gabriel Essênio </h1>
 <h3 align="center">Sou estudante de Desenvolvimento Web na Trybe!</h3>
 
-<p align="center"><img align="center" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></p>
+<p align="center"><img align="center" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></p>
 
 <h2 align="center"><strong>Um pouco sobre mim</strong><h2>
 
