@@ -25,8 +25,8 @@
 <a href="https://www.instagram.com/gabrielessenio/" target="blank"><img align="center" src="https://png.pngtree.com/element_our/md/20180626/md_5b321ca3631b8.jpg" alt="gabrielessenio" height="30" width="40" /></a>
 </p>
 
-## <p align="center">Tools</p>
-<p align="center">I have good knowledge in the following topics:</p>
+## <p align="center">Ferramentas</p>
+<p align="center">Tenho conhecimento nas ferramentas:</p>
 
 <p align="center">
   <a href="https://git-scm.com/doc" target="_blank">
