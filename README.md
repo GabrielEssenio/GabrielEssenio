@@ -8,19 +8,22 @@
   <h3>  
 - 👋 Sou formado em **Analise e Desenvolvimento de Sistemas pela UniCeub**
 
--  Sou estudante da **Trybe** 
+-  :books: Sou estudante da **Trybe** 
 
-- :bulb: No momento estou estudando **MySQL**
+- :dart: No momento estou estudando **MySQL**
 
 - 🇺🇸 Nível de Ingês: **Upper Intermediate**
 
 - 💼 Procurando por uma vaga de emprego como **Dev Junior**
   
-- Estou sempre buscando novos desafios
+- :bulb: Estou sempre buscando novos desafios
 
 -  :recycle: Sou **Vegetariano** 
 
 - :zap: Curiosidade 
+
+- :round_pushpin: Moro em Belo Horizonte
+    
   </h3>
 
 ## <p align="center">Linguagens e Ferramentas</p>
