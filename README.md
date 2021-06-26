@@ -10,7 +10,7 @@
 
 - 💡 Sou estudante da **Trybe** 
 
-- 🎯 No momento estou estudando **MySQL**
+- �: No momento estou estudando **MySQL**
 
 - 🇺🇸 Nível de Ingês: **Upper Intermediate**
 
