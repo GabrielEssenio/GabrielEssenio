@@ -16,7 +16,7 @@
 
 - 📫 Entre em contato **gabriel.essenio@gmail.com**
 
-- ⚡ Curiosidade: Estou sempre disposto pra uma **Aventura**
+- ⚡ Curiosidade: Sou vegetariano :recycle: **Aventura**
 
 
 
