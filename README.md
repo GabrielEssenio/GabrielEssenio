@@ -1,5 +1,7 @@
 <h1 align="center">Olá, <dev/> Meu nome é Gabriel Essênio </h1>
-<h3 align="center">Sou estudante de Desenvolvimento Web na Trybe!</h3>
+
+<h3 align="center"><img align="left" src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" alt="trybe" width="20"/>
+  Sou estudante de Desenvolvimento Web na Trybe!</h3>
 
 <p align="center"><img align="center" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></p>
 
@@ -10,7 +12,7 @@
 
 - 💡 Sou estudante da **Trybe** 
 
-- �: No momento estou estudando **MySQL**
+- 📖 No momento estou estudando **MySQL**
 
 - 🇺🇸 Nível de Ingês: **Upper Intermediate**
 
