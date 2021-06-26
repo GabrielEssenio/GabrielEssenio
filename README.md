@@ -63,7 +63,7 @@
   
   <br>
   
-  <h3 align="center">Entre em Contato</h3>
+  <h3 align="center">Entre em Contato :mailbox:</h3>
   
   <br>
   
