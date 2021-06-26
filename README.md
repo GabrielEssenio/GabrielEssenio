@@ -1,14 +1,15 @@
 <h1 align="center">Olá, <dev/> Meu nome é Gabriel Essênio </h1>
-<h3 align="center">Sou estudante de Front-end and Back-end!</h3>
+<h3 align="center">Sou estudante de Desenvolvimento Web!</h3>
 
 <p align="center"><img align="center" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></p>
 
-
-- 👋 Sou formado em **Analise e Desenvolvimento de Sistemas pelo UniCEUB**
+<h2 align="center">Um pouco sobre mim<h2>
+  
+- 👋 Sou formado em **Analise e Desenvolvimento de Sistemas pela UniCEUB**
 
 - :bulb: Sou estudante da **Trybe** 
 
-- 🔭 No momento estou estudando **Redux**
+- 🔭 No momento estou estudando **MySQL**
 
 - 🇺🇸 Nível de Ingês: **Upper Intermediate**
 
@@ -35,8 +36,6 @@
   <a href="https://github.com/gabrielessenio" target="_blank">
    <code><img height="50" src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png"></code> 
   </a>
-  
-  
   
    <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">
    <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></code> 
@@ -73,13 +72,5 @@
   <a href="https://jestjs.io/docs/getting-started" target="_blank">
    <code><img height="50px" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png"></code>
   </a>
-  
+
 </p>
-
-
-
-
-
-<!-- <h3 align="center">Linguagens e Ferramentas:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></p>
- -->
