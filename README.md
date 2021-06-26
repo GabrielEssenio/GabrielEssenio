@@ -8,7 +8,7 @@
   <h3>  
 - 👋 Sou formado em **Analise e Desenvolvimento de Sistemas pela UniCeub**
 
--  :books: Sou estudante da **Trybe** 
+- 💡: Sou estudante da **Trybe** 
 
 - :dart: No momento estou estudando **MySQL**
 
@@ -19,11 +19,10 @@
 - :bulb: Estou sempre buscando novos desafios
 
 - :seedling: Sou **Vegetariano** 
-
-- :zap: Curiosidade: Gosto de :runner: Correr no Parque e :video_game: Jogar Video Game
-
-- :round_pushpin: Moro em Belo Horizonte
     
+- ⚡ Hobbies: :runner: Gosto de Correr no Parque e:video_game: Jogar Video Game 
+    
+- :round_pushpin: Moro em Belo Horizonte
   </h3>
 
 ## <p align="center">Linguagens e Ferramentas</p>
