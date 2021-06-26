@@ -61,8 +61,13 @@
   </a>
 </p>
   
+  <br>
+  <br>
   
   <h3 align="center">Entre em Contato</h3>
+  
+  <br>
+  
   <p align="center">
     <a href="https://github.com/gabrielessenio" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="50px">
