@@ -8,9 +8,9 @@
   <h3>  
 - 👋 Sou formado em **Analise e Desenvolvimento de Sistemas pela UniCeub**
 
-- :bulb: Sou estudante da **Trybe** 
+-  Sou estudante da **Trybe** 
 
-- 🔭 No momento estou estudando **MySQL**
+- :bulb: No momento estou estudando **MySQL**
 
 - 🇺🇸 Nível de Ingês: **Upper Intermediate**
 
