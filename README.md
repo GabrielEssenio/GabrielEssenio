@@ -18,9 +18,9 @@
   
 - :bulb: Estou sempre buscando novos desafios
 
--  :recycle: Sou **Vegetariano** 
+- :seedling: Sou **Vegetariano** 
 
-- :zap: Curiosidade 
+- :zap: Curiosidade: Gosto de :runner: Correr no Parque e :video_game: Jogar Video Game
 
 - :round_pushpin: Moro em Belo Horizonte
     
