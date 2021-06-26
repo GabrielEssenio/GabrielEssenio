@@ -18,7 +18,7 @@
   
   - 💡 Sou estudante da **Trybe** 
 
-  -:book: No momento estou estudando **MySQL**
+  - :book: No momento estou estudando **MySQL**
 
   - 🇺🇸 Nível de Ingês: **Upper Intermediate**
 
