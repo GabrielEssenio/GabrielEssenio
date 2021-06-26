@@ -5,7 +5,7 @@
 
 <h2 align="center"><strong>Um pouco sobre mim</strong><h2>
 
-  <h3>  
+<h3>  
 - 👋 Sou formado em <strong>Analise e Desenvolvimento de Sistemas</strong> pela UniCeub
 
 - 💡 Sou estudante da **Trybe** 
@@ -23,7 +23,7 @@
 - ⚡ Hobbies: :runner: Gosto de Correr no Parque e :video_game: Jogar Video Game 
     
 - :round_pushpin: Moro em Belo Horizonte
-  </h3>
+</h3>
   
 <br>
   
