@@ -67,15 +67,10 @@
 <a href="https://www.linkedin.com/in/gabrielessenio/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="50px">
 </a>
+  <a href="https://t.me/gabrielessenio/" target="_blank">
+  <img src="https://w7.pngwing.com/pngs/607/1001/png-transparent-white-arrow-illustration-telegram-logo-computer-icons-social-miscellaneous-blue-angle-thumbnail.png" width="50px">
+</a>
+  https://w7.pngwing.com/pngs/607/1001/png-transparent-white-arrow-illustration-telegram-logo-computer-icons-social-miscellaneous-blue-angle-thumbnail.png
   
-  
-  
-  
-  <h3 align="center">Redes Sociais</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/gabrielessenio/" target="blank"><img align="center" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="gabrielessenio" height="30" width="40" /></a>
-<a href="https://www.instagram.com/gabrielessenio/" target="blank"><img align="center" src="https://png.pngtree.com/element_our/md/20180626/md_5b321ca3631b8.jpg" alt="gabrielessenio" height="30" width="40" /></a>
-  <a href="https://t.me/gabrielessenio/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/607/1001/png-transparent-white-arrow-illustration-telegram-logo-computer-icons-social-miscellaneous-blue-angle-thumbnail.png" alt="gabrielessenio" height="30" width="40" /></a>
-</p>
   
   https://t.me/gabrielessenio
