@@ -99,8 +99,3 @@
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="50px">
 </a>
    -->
-  
-  <a href="https://t.me/gabrielessenio/" target="_blank">
-  <img src="https://w7.pngwing.com/pngs/607/1001/png-transparent-white-arrow-illustration-telegram-logo-computer-icons-social-miscellaneous-blue-angle-thumbnail.png" width="50px">
-</a>
-
