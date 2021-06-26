@@ -7,19 +7,21 @@
 <h2 align="center"><strong>Um pouco sobre mim</strong><h2>
 
 <h3>  
-- 👋 Sou formado em <strong>Analise e Desenvolvimento de Sistemas</strong> pela UniCeub
 
-- 💡 Sou estudante da **Trybe** 
 
-- 📖 No momento estou estudando **MySQL**
-
-- 🇺🇸 Nível de Ingês: **Upper Intermediate**
-
-- 💼 Procurando por uma vaga de emprego como **Dev Junior**
+  - 📚 Sou formado em <strong>Analise e Desenvolvimento de Sistemas</strong> pela UniCeub
   
-- 💡 Estou sempre buscando novos desafios
+  - 💡 Sou estudante da **Trybe** 
 
-- 🌱 Sou **Vegetariano** 
+  - 🔎 No momento estou estudando **MySQL**
+
+  - 🇺🇸 Nível de Ingês: **Upper Intermediate**
+
+  - 💼 Procurando por uma vaga de emprego como **Dev Junior**
+  
+  - 💡 Estou sempre buscando novos desafios
+
+  - 🌱 Sou **Vegetariano** 
   
 - ⚡ Hobbies: :runner: Gosto de Correr no Parque e :video_game: Jogar Video Game 
     
