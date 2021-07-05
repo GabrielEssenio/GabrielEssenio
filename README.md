@@ -28,9 +28,9 @@
 
   - 🌱 Sou **Vegetariano** 
   
-- ⚡ Hobbies: :runner: Gosto de Correr no Parque e :video_game: Jogar Video Game 
+  - ⚡ Hobbies: :runner: Gosto de Correr no Parque e :video_game: Jogar Video Game 
     
-- :round_pushpin: Moro em Belo Horizonte
+  -📌 Moro em Belo Horizonte
 </h3>
   
 <br>
