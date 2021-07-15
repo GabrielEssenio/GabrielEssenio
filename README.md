@@ -32,7 +32,7 @@
     
   - 📌 Moro em Belo Horizonte
 
-  -📔 Meu Curriculo: https://gitconnected.com/gabrielessenio/resume
+  - 📔 Meu Curriculo: https://gitconnected.com/gabrielessenio/resume
 </h3>
   
 <br>
