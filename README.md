@@ -31,6 +31,8 @@
   - ⚡ Hobbies: :runner: Gosto de Correr no Parque e :video_game: Jogar Video Game 
     
   - 📌 Moro em Belo Horizonte
+
+  -📔 Meu Curriculo: https://gitconnected.com/gabrielessenio/resume
 </h3>
   
 <br>
