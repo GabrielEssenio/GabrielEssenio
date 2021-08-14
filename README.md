@@ -105,8 +105,3 @@
   
   ![GabrielEssenio's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielessenio&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielessenio&layout=compact&show_icons=true&theme=dracula)
-  
-  ![Snake animation](https://github.com/GabrielEssenio/blob/output/github-contribution-grid-snake.svg)
-
-  
-  
