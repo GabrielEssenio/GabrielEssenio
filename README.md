@@ -18,7 +18,7 @@
   
   - 💡 Sou estudante da **Trybe** 
 
-  - :book: No momento estou estudando **MySQL**
+  - :book: No momento estou estudando **Node.js**
 
   - 🇺🇸 Nível de Ingês: **Upper Intermediate**
 
@@ -74,7 +74,10 @@
    <code><img height="50px" width="50" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png"></code>
   </a>
   <a href="https://www.mongodb.com/pt-br" target="_blank">
-   <code><img height="50px" width="50" src="https://freeicons.io/vector-and-svg-logos-icons-14/mongodb-icon-8856#"></code>
+   <code><img height="50px" width="50" src="https://pics.freeicons.io/uploads/icons/png/1888890291551942128-512.png"></code>
+  </a>
+   <a href="https://nodejs.org/en/" target="_blank">
+   <code><img height="50px" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-256.png"></code>
   </a>
 </p>
   
