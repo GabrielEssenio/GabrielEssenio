@@ -73,6 +73,9 @@
   <a href="https://jestjs.io/docs/getting-started" target="_blank">
    <code><img height="50px" width="50" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png"></code>
   </a>
+  <a href="https://www.mongodb.com/pt-br" target="_blank">
+   <code><img height="50px" width="50" src="https://freeicons.io/vector-and-svg-logos-icons-14/mongodb-icon-8856#"></code>
+  </a>
 </p>
   
   <br>
