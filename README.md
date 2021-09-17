@@ -7,7 +7,7 @@
 
 </h3>
 
-<p align="center"><img align="center" width="400" src="https://steemitimages.com/p/46aP2QLrGDNGiJdfY4WTT8NPvcfYiDkBhmpjcaCgXr4MCNcJE3u9JDasgkDDdeU3Lcu4Qj2eN8mdSBSBF8tfXpZZuP7K?format=match&mode=fit"></p>
+<p align="center"><img align="center" width="400" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif"></p>
 
 <h2 align="center"><strong>Um pouco sobre mim</strong><h2>
 
