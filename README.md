@@ -101,6 +101,19 @@
     <a href="https://jestjs.io/docs/getting-started" target="_blank">
    <code><img height="50px" width="50" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png"></code>
   </a>
+      <a href="https://testing-library.com/" target="_blank">
+   <code><img height="50px" width="50" src="https://testing-library.com/img/octopus-128x128.png"></code>
+  </a>
+     <a href="https://mochajs.org/" target="_blank">
+   <code><img height="50px" width="50" src="https://e7.pngegg.com/pngimages/21/493/png-clipart-mocha-node-js-javascript-software-testing-npm-github-logo-sign-thumbnail.png"></code>
+  </a>
+      <a href="https://www.chaijs.com/" target="_blank">
+   <code><img height="50px" width="50" src="https://iconape.com/wp-content/png_logo_vector/chai-logo.png"></code>
+  </a>
+      <a href="https://sinonjs.org/" target="_blank">
+   <code><img height="50px" width="50" src="https://sinonjs.org/assets/images/logo.png"></code>
+  </a>
+  
 <h3>FERRAMENTAS</h3>
     <a href="https://git-scm.com/doc" target="_blank">
    <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
