@@ -37,49 +37,74 @@
   
 <br>
   
-<h2 align="center"><strong>Linguagens e Ferramentas</strong></h2>
-
-<p align="center">
-  <a href="https://git-scm.com/doc" target="_blank">
-   <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-  </a>
-  <a href="https://github.com/gabrielessenio" target="_blank">
-   <code><img heigth="50" width="50" src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png"></code> 
-  </a>
-   <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">
-   <code><img heigth="50" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"></code> 
-  </a>
-  <a href="https://redux.js.org/" target="_blank">
-   <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code> 
-  </a>
+<h2 align="center"><strong>Tecnologia e Ferramentas</strong></h2>
+  
+<div align="center">
+  
+<h3>LINGUAGENS</h3>
   <a href="https://devdocs.io/javascript/" target="_blank">
    <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+  
+  
+  <h3>FRONT-END</h3>
+  
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
    <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code> 
   </a>
+  
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
    <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code> 
   </a>  
-  <a href="https://tailwindcss.com/docs" target="_blank">
-   <code><img heigth="50" width="50" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"></code> 
+  
+    <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">
+   <code><img heigth="50" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"></code> 
   </a>
-  <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/" target="_blank">
+  
+  <a href="https://redux.js.org/" target="_blank">
+   <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code> 
+  </a>
+  
+    <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/" target="_blank">
    <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code> 
   </a>
-  <a href="https://dev.mysql.com/doc/" target="_blank">
+  
+    <a href="https://tailwindcss.com/docs" target="_blank">
+   <code><img heigth="50" width="50" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"></code> 
+  </a>
+  
+  <h3>BACK-END</h3>
+  
+   <a href="https://dev.mysql.com/doc/" target="_blank">
    <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code> 
   </a>
-  <a href="https://jestjs.io/docs/getting-started" target="_blank">
-   <code><img height="50px" width="50" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png"></code>
-  </a>
-  <a href="https://www.mongodb.com/pt-br" target="_blank">
+  
+    <a href="https://www.mongodb.com/pt-br" target="_blank">
    <code><img height="50px" width="50" src="https://pics.freeicons.io/uploads/icons/png/1888890291551942128-512.png"></code>
   </a>
-   <a href="https://nodejs.org/en/" target="_blank">
+  
+    <a href="https://nodejs.org/en/" target="_blank">
    <code><img height="50px" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-256.png"></code>
   </a>
-</p>
+  
+  <h3>TESTES</h3>
+  
+    <a href="https://jestjs.io/docs/getting-started" target="_blank">
+   <code><img height="50px" width="50" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png"></code>
+  </a>
+  
+<h3>FERRAMENTAS</h3>
+  
+    <a href="https://git-scm.com/doc" target="_blank">
+   <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+  </a>
+  
+  <a href="https://github.com/gabrielessenio" target="_blank">
+   <code><img heigth="50" width="50" src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png"></code> 
+  </a>
+
+ 
+</div>
   
   <br>
   
