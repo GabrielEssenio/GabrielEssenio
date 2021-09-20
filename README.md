@@ -54,6 +54,9 @@
   </a>
   
   <h3>FRONT-END</h3>
+    <a href="https://devdocs.io/javascript/" target="_blank">
+   <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+  </a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
    <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code> 
   </a>
@@ -81,6 +84,8 @@
   </a>
     <a href="https://nodejs.org/en/" target="_blank">
    <code><img height="50px" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-256.png"></code>
+        <a href="https://expressjs.com/pt-br/" target="_blank">
+   <code><img height="50px" width="50" src="https://w7.pngwing.com/pngs/247/558/png-transparent-node-js-javascript-express-js-npm-react-github-angle-text-trademark-thumbnail.png"></code>
   </a>
   <h3>TESTES</h3>
     <a href="https://jestjs.io/docs/getting-started" target="_blank">
