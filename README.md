@@ -39,21 +39,6 @@
   
 <h2 align="center"><strong>Tecnologia e Ferramentas</strong></h2>
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 <div align="center">
 <h3>LINGUAGENS</h3>
   <a href="https://devdocs.io/javascript/" target="_blank">
@@ -92,7 +77,7 @@
    <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code> 
   </a>
     <a href="https://www.mongodb.com/pt-br" target="_blank">
-   <code><img height="50px" width="50" src="https://pics.freeicons.io/uploads/icons/png/1888890291551942128-512.png"></code>
+   <code><img height="50px" width="50" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"></code>
   </a>
     <a href="https://nodejs.org/en/" target="_blank">
    <code><img height="50px" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-256.png"></code>
@@ -105,7 +90,7 @@
    <code><img height="50px" width="50" src="https://testing-library.com/img/octopus-128x128.png"></code>
   </a>
      <a href="https://mochajs.org/" target="_blank">
-   <code><img height="50px" width="50" src="https://e7.pngegg.com/pngimages/21/493/png-clipart-mocha-node-js-javascript-software-testing-npm-github-logo-sign-thumbnail.png"></code>
+   <code><img height="50px" width="50" src="https://res.cloudinary.com/practicaldev/image/fetch/s--zlFuO8U---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/cei0slwuopm0xg4glyut.png"></code>
   </a>
       <a href="https://www.chaijs.com/" target="_blank">
    <code><img height="50px" width="50" src="https://iconape.com/wp-content/png_logo_vector/chai-logo.png"></code>
@@ -120,6 +105,15 @@
   </a>
   <a href="https://github.com/gabrielessenio" target="_blank">
    <code><img heigth="50" width="50" src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png"></code> 
+  </a> 
+   <a href="https://www.linux.org/" target="_blank">
+   <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code> 
+  </a> 
+   <a href="https://slack.com/intl/pt-br/" target="_blank">
+   <code><img heigth="50" width="50" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code> 
+  </a> 
+    <a href="https://trello.com/pt-BR" target="_blank">
+   <code><img heigth="50" width="50" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg"></code> 
   </a> 
 </div>
   
