@@ -90,7 +90,7 @@
    <code><img height="50px" width="50" src="https://testing-library.com/img/octopus-128x128.png"></code>
   </a>
      <a href="https://mochajs.org/" target="_blank">
-   <code><img height="50px" width="50" src="https://res.cloudinary.com/practicaldev/image/fetch/s--zlFuO8U---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/cei0slwuopm0xg4glyut.png"></code>
+   <code><img height="50px" width="50" src="https://cdn.iconscout.com/icon/free/png-256/mocha-1-1175012.png"></code>
   </a>
       <a href="https://www.chaijs.com/" target="_blank">
    <code><img height="50px" width="50" src="https://iconape.com/wp-content/png_logo_vector/chai-logo.png"></code>
