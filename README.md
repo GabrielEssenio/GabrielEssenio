@@ -85,7 +85,7 @@
     <a href="https://nodejs.org/en/" target="_blank">
    <code><img height="50px" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-256.png"></code>
         <a href="https://expressjs.com/pt-br/" target="_blank">
-   <code><img height="50px" width="50" src="https://w7.pngwing.com/pngs/247/558/png-transparent-node-js-javascript-express-js-npm-react-github-angle-text-trademark-thumbnail.png"></code>
+   <code><img height="50px" width="50" src="https://expressjs.com/images/express-facebook-share.png"></code>
   </a>
   <h3>TESTES</h3>
     <a href="https://jestjs.io/docs/getting-started" target="_blank">
