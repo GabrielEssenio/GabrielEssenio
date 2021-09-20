@@ -59,6 +59,15 @@
   <a href="https://devdocs.io/javascript/" target="_blank">
    <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
   </a>
+  
+   <a href="https://www.python.org" target="_blank">
+   <code><img heigth="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"></code>
+  </a>
+
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
+   <code><img heigth="50" width="50" src="https://img.icons8.com/color/48/000000/java.png"></code>
+  </a>
+  
   <h3>FRONT-END</h3>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
    <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code> 
