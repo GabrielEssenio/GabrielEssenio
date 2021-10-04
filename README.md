@@ -137,11 +137,7 @@
   <img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Gmail"  width="50" />
 </a>
  </p>
-  </p>
-  <br>
-  <h3 align="center">Contador de visitas :eyes:</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/{GabrielEssenio}/count.svg" alt="GabrielEssenio :: Visitor's Count" /></p>
-  
+  </p>  
   <br>
   <br>
   
