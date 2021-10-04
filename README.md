@@ -23,7 +23,7 @@
 
   - 🌱 Sou **Vegetariano** 
   
-  - ⚡ Hobbies: Correr no Parque|Jogar Video Game| Ouvir Musica | Ler Livro 
+  - ⚡ Hobbies: Correr no Parque | Jogar Video Game | Ouvir Musica | Ler Livro 
     
   - 📌 Moro em Belo Horizonte
 
