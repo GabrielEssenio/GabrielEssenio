@@ -14,9 +14,9 @@
 <h3>  
 
 
-  - 📚 Sou formado em <strong>Analise e Desenvolvimento de Sistemas</strong> pela UniCeub
+  - 📚 Sou formado em <strong>Analise e Desenvolvimento de Sistemas</strong> pela [UniCeub](https://www.uniceub.br/pdp/graduacao/ti/analise-e-desenvolvimento-de-sistemas-96)
   
-  - 💡 Sou estudante da **Trybe** 
+  - :rocket: Sou estudante da [Trybe](https://www.betrybe.com/) 
 
   - :book: No momento estou estudando **Node.js**
 
@@ -24,11 +24,11 @@
 
   - 💼 Procurando por uma vaga de emprego como **Dev Junior**
   
-  - :telescope: Estou sempre buscando novos desafios
+  - :lamp: Estou sempre buscando novos desafios
 
   - 🌱 Sou **Vegetariano** 
   
-  - ⚡ Hobbies: :runner: Gosto de Correr no Parque e :video_game: Jogar Video Game 
+  - ⚡ Hobbies: Correr no Parque|Jogar Video Game| Ouvir Musica | Ler Livro 
     
   - 📌 Moro em Belo Horizonte
 
