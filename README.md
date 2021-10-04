@@ -2,11 +2,6 @@
   <strong><img src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" alt="trybe" width="20"/>Olá, Meu nome é Gabriel Essênio</strong>
 </h1>
 
-<h3 align="center">
-  Sou estudante de Desenvolvimento Web na Trybe!
-
-</h3>
-
 <p align="center"><img align="center" width="400" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif"></p>
 
 <h2 align="center"><strong>Um pouco sobre mim</strong><h2>
