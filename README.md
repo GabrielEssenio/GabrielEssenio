@@ -19,11 +19,11 @@
 
   - 💼 Procurando por uma vaga de emprego como **Dev Junior**
   
-  - :lamp: Estou sempre buscando novos desafios
+  - 💡 Estou sempre buscando novos desafios
 
   - 🌱 Sou **Vegetariano** 
   
-  - ⚡ Hobbies: Correr no Parque | Jogar Video Game | Ouvir Musica | Ler Livro 
+  - ⚡ Hobbies:Correr no Parque | Jogar Video Game | Ouvir Musica | Ler Livro 
     
   - 📌 Moro em Belo Horizonte
 
