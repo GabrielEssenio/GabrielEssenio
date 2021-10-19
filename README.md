@@ -80,7 +80,7 @@
     <a href="https://nodejs.org/en/" target="_blank">
    <code><img height="50px" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-256.png"></code>
         <a href="https://expressjs.com/pt-br/" target="_blank">
-   <code><img height="50px" width="50" src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle.png"></code>
+   <code><img height="50px" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original-wordmark.svg"></code>
   </a>
       <a href="https://sequelize.org/" target="_blank">
    <code><img height="50px" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sequelize/sequelize-original.svg"></code>
