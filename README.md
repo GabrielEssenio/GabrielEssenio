@@ -82,6 +82,9 @@
         <a href="https://expressjs.com/pt-br/" target="_blank">
    <code><img height="50px" width="50" src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle.png"></code>
   </a>
+      <a href="https://sequelize.org/" target="_blank">
+   <code><img height="50px" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sequelize/sequelize-original.svg"></code>
+  </a>
   <h3>TESTES</h3>
     <a href="https://jestjs.io/docs/getting-started" target="_blank">
    <code><img height="50px" width="50" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png"></code>
