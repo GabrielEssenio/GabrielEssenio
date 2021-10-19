@@ -118,7 +118,7 @@
     <a href="https://trello.com/pt-BR" target="_blank">
    <code><img heigth="50" width="50" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg"></code> 
   </a> 
-      <h3>IDE</h3>
+      <h3>IDEs</h3>
        <a href="https://code.visualstudio.com/docs" target="_blank">
    <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain.svg"></code>
   </a>
