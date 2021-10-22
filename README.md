@@ -13,21 +13,19 @@
   
   - :rocket: Sou estudante da [Trybe](https://www.betrybe.com/) 
 
-  - :book: No momento estou estudando **Node.js**
+  - :book: No momento estou estudando [Socket](https://socket.io/)
 
   - 🇺🇸 Nível de Ingês: **Upper Intermediate**
 
   - 💼 Procurando por uma vaga de emprego como **Dev Junior**
   
   - 💡 Estou sempre buscando novos desafios
-
-  - 🌱 Sou **Vegetariano** 
   
   - ⚡ Hobbies:Correr no Parque | Jogar Video Game | Ouvir Musica | Ler Livro 
     
   - 📌 Moro em Belo Horizonte
 
-  - 📔 Meu Curriculo: https://gitconnected.com/gabrielessenio/resume
+  - 📔 Meu Curriculo: https://resume.io/r/iY3YFuSVd
 </h3>
   
 <br>
