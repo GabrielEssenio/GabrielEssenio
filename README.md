@@ -30,7 +30,7 @@
   
 <br>
   
-<h2 align="center"><strong>Tecnologia e Ferramentas</strong></h2>
+<h2 align="center"><strong>Tecnologia e contentFerramentas</strong></h2>
   
 <div align="center">
 <h3>LINGUAGENS</h3>
@@ -49,7 +49,7 @@
   <h3>FRONT-END</h3>
     <a href="https://devdocs.io/javascript/" target="_blank">
    <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-  </a>
+  </a>content
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
    <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code> 
   </a>
