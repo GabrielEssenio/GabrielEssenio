@@ -47,9 +47,6 @@
   </a>
   
   <h3>FRONT-END</h3>
-    <a href="https://devdocs.io/javascript/" target="_blank">
-   <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-  </a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
    <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code> 
   </a>
@@ -67,6 +64,9 @@
   </a>
     <a href="https://tailwindcss.com/docs" target="_blank">
    <code><img heigth="50" width="50" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"></code> 
+  </a>
+  <a href="https://styled-components.com/docs" target="_blank">
+   <code><img heigth="50" width="50" src="https://styled-components.com/logo.png"></code> 
   </a>
   <h3>BACK-END</h3>
    <a href="https://dev.mysql.com/doc/" target="_blank">
@@ -117,12 +117,12 @@
    <code><img heigth="50" width="50" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg"></code> 
   </a> 
       <h3>IDEs</h3>
-       <a href="https://code.visualstudio.com/docs" target="_blank">
-   <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain.svg"></code>
+ <a href="https://code.visualstudio.com/docs" target="_blank">
+   <code><img heigth="50" width="50"      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain.svg"></code>
   </a>
-       <a href="https://www.jetbrains.com/help/idea/documentation-tool-window.html" target="_blank">
-   <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/intellij/intellij-original.svg"></code>
-  </a>      
+  <a href="https://www.jetbrains.com/pt-pt/lp/idea-extended-trial/" target="_blank">
+   <code><img heigth="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"></code>
+  </a>   
 </div>
   
   <br>
