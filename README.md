@@ -13,7 +13,7 @@
   
   - :rocket: Sou estudante da [Trybe](https://www.betrybe.com/) 
 
-  - :book: No momento estou estudando [Socket](https://socket.io/)
+  - :book: No momento estou estudando [Python 3]
 
   - 🇺🇸 Nível de Ingês: **Upper Intermediate**
 
