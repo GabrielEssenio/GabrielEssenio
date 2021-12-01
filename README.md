@@ -21,7 +21,7 @@
   
   - 💡 Estou sempre buscando novos desafios
   
-  - ⚡ Hobbies:Correr no Parque | Jogar Video Game | Ouvir Musica | Ler Livro 
+  - ⚡ Hobbies: Gosto de Correr no Parque | Jogar Video Game | Acampar
     
   - 📌 Moro em Belo Horizonte
 
