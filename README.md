@@ -11,19 +11,19 @@
 
   - 📚 Sou formado em <strong>Analise e Desenvolvimento de Sistemas</strong> pela [UniCeub](https://www.uniceub.br/pdp/graduacao/ti/analise-e-desenvolvimento-de-sistemas-96)
   
-  - :rocket: Sou estudante da [Trybe](https://www.betrybe.com/) 
+  - :rocket: Sou formado pela [Trybe](https://www.betrybe.com/) em Desenvolvimento Web 
 
-  - :book: No momento estou estudando [Python 3]
+  - :book: No momento estou estudando [Java]
 
   - 🇺🇸 Nível de Ingês: **Upper Intermediate**
 
-  - 💼 Procurando por uma vaga de emprego como **Dev Junior**
+  - 💼 Tralho no Mercado Livre como Software Developer
   
-  - 💡 Estou sempre buscando novos desafios
+  - 💡 Estou sempre buscando novos desafios e me inovar
   
   - ⚡ Hobbies: Gosto de Correr no Parque | Jogar Video Game | Acampar
     
-  - 📌 Moro em Belo Horizonte
+  - 📌 Moro em Belo Horizonte - MG
 
   - 📔 Meu Curriculo: https://resume.io/r/iY3YFuSVd
 </h3>
