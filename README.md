@@ -149,7 +149,7 @@
   </a>
     
   <a href="mailto:gabriel.essenio@gmail.com" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Gmail"  width="50" />
+    <img src="https://img.icons8.com/fluency/344/gmail-new.png" alt="Gmail"  width="50" />
   </a>
   </p>  
   <br>
