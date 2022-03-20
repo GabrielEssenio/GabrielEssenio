@@ -14,10 +14,10 @@
   - :rocket: Sou formado pela [Trybe](https://www.betrybe.com/) em Desenvolvimento Web 
 
   - :book: No momento estou estudando [Java](https://docs.oracle.com/en/java/)
+  
+  - 💼 Tralho no Mercado Livre como Software Developer
 
   - 🇺🇸 Nível de Ingês: **Upper Intermediate**
-
-  - 💼 Tralho no Mercado Livre como Software Developer
   
   - 💡 Estou sempre buscando novos desafios e me inovar
   
