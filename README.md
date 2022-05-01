@@ -8,15 +8,14 @@
 
 <h3>  
 
-
+  - 💼 Tralho no [Mercado Livre](https://www.mercadolivre.com.br) como Software Developer
+  
   - 📚 Sou formado em <strong>Analise e Desenvolvimento de Sistemas</strong> pela [UniCeub](https://www.uniceub.br/pdp/graduacao/ti/analise-e-desenvolvimento-de-sistemas-96)
   
   - :rocket: Sou formado pela [Trybe](https://www.betrybe.com/) em Desenvolvimento Web 
 
   - :book: No momento estou estudando [Java](https://docs.oracle.com/en/java/)
   
-  - 💼 Tralho no [Mercado Livre](https://www.mercadolivre.com.br) como Software Developer
-
   - 🇺🇸 Nível de Ingês: **Upper Intermediate**
   
   - 💡 Estou sempre buscando novos desafios e me inovar
@@ -131,7 +130,7 @@
   
   <br>
   
-  <h3 align="center">Entre em Contato :mailbox:</h3>
+  <h3 align="center">Entre em Contato Comigo :mailbox:</h3>
   
   <br>
   
