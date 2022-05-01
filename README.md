@@ -15,13 +15,13 @@
 
   - :book: No momento estou estudando [Java](https://docs.oracle.com/en/java/)
   
-  - 💼 Tralho no Mercado Livre como Software Developer
+  - 💼 Tralho no [Mercado Livre](https://www.mercadolivre.com.br) como Software Developer
 
   - 🇺🇸 Nível de Ingês: **Upper Intermediate**
   
   - 💡 Estou sempre buscando novos desafios e me inovar
   
-  - ⚡ Hobbies: Gosto de Correr no Parque | Jogar Video Game | Acampar
+  - ⚡ Hobbies: Games | Acampar | Trilhas | Cachoeira
     
   - 📌 Moro em Belo Horizonte - MG
 
