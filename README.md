@@ -8,7 +8,7 @@
 
 <h3>  
 
-  - 💼 Tralho no [Mercado Livre](https://www.mercadolivre.com.br) como Software Developer
+  - 💼 Atuo como Software Developer no [Mercado Livre](https://www.mercadolivre.com.br) como Software Developer
   
   - 📚 Sou formado em <strong>Analise e Desenvolvimento de Sistemas</strong> pela [UniCeub](https://www.uniceub.br/pdp/graduacao/ti/analise-e-desenvolvimento-de-sistemas-96)
   
