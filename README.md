@@ -18,7 +18,7 @@
   
   - 🇺🇸 Nível de Ingês: **Upper Intermediate**
   
-  - 💡 Estou sempre buscando novos desafios e me inovar
+  - 💡 Estou sempre buscando novos desafios e de aprender algo novo
   
   - ⚡ Hobbies: Games | Acampar | Trilhas | Cachoeira
     
