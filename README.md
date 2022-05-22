@@ -14,7 +14,7 @@
   
   - :rocket: Sou formado pela [Trybe](https://www.betrybe.com/) em Desenvolvimento Web 
 
-  - :book: No momento estou estudando [Java](https://docs.oracle.com/en/java/)
+  - :book: No momento estou estudando [Goland](https://go.dev/doc/)
   
   - 🇺🇸 Nível de Ingês: **Upper Intermediate**
   
