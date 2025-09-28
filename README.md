@@ -86,6 +86,9 @@
       <a href="https://sequelize.org/" target="_blank">
    <code><img height="50px" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sequelize/sequelize-original.svg"></code>
   </a>
+  <a href="https://sequelize.org/" target="_blank">
+    <code><img height="50px" width="50" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"></code>
+  </a>
   <h3>TESTES</h3>
     <a href="https://jestjs.io/docs/getting-started" target="_blank">
    <code><img height="50px" width="50" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png"></code>
